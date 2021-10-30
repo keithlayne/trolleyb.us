@@ -1,4 +1,4 @@
 incremental: true
 livereload: true
-open_url: true
 source: docs
+theme: minima
