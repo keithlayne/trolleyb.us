@@ -1,4 +1,11 @@
+title: 🚎 trolleyb.us
+
+source: docs
+
+theme: minima
+
+rss: rss
+
+# local stuff
 incremental: true
 livereload: true
-source: docs
-theme: minima
